@@ -42,9 +42,6 @@ public class Main {
         System.out.println();
         Human vladimir = new Human(0, 21, "Владимир", "Казань", "");
         System.out.println(vladimir);
-        System.out.println();
-
-
 
         Flower roza = new Flower("Роза обыкновенная", null, "Голландия", 35.59, null);
         System.out.println(roza);
@@ -90,4 +87,6 @@ public class Main {
 
 
     }
+
+
 }
